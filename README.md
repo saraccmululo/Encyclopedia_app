@@ -21,8 +21,8 @@ Python, Django, HTML, CSS, Markdown
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/saraccmululo/Encyclopedia_app.git
-   cd Wiki_App
+   git clone https://github.com/saraccmululo/encyclopedia-web-app.git
+   cd encyclopedia-web-app
 2. Create a virtual environment:
     python3 -m venv env
     source env/bin/activate   # On Windows: env\Scripts\activate
@@ -30,4 +30,4 @@ Python, Django, HTML, CSS, Markdown
     pip install -r requirements.txt
 4. Run the Django server:
     python manage.py runserver
-5. Open your browser at: http://127.0.0.1:8000/wiki/
+5. Open your browser at: http://127.0.0.1:8000/encyclopedia-web-app/
