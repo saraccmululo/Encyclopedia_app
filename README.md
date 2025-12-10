@@ -5,6 +5,11 @@ Entries are written in Markdown and dynamically rendered as HTML.
 
 ---
 
+## Video Overview
+[Watch the project overview](https://youtu.be/TlfrAS98H-E)
+
+---
+
 ## Features
 - Browse all encyclopedia entries
 - Search entries by title or keyword
